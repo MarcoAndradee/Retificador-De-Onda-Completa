@@ -12,5 +12,11 @@ Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que s
 :black_circle: **TinkerCad** - é um programa de modelagem tridimensional online gratuito que roda em um navegador da web, conhecido por sua simplicidade e facilidade de uso.
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="200em" src="">
+<img height="200em" src="./assets/img/tinkercad.png">
+</div>
+
+# Esquemático do projeto utilizando a ferramenta PROTEUS:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="200em" src="./assets/img/esquematico.png">
 </div>
