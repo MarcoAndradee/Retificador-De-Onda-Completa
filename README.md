@@ -20,3 +20,21 @@ Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que s
 <a href="https://github.com/MarcoAndradee">
 <img height="200em" src="./assets/img/esquematico.png">
 </div>
+
+# Layout PCB do projeto utilizando a ferramenta PROTEUS:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="200em" src="./assets/img/pcb.png">
+</div>
+
+# Modelo 3D da placa de circuitos do projeto utilizando a ferramenta PROTEUS:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="200em" src="./assets/img/placa.png">
+</div>
+
+# Esquemático do projeto com todos os componentes na protoboard, utilizando a ferramenta TinkerCad:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="200em" src="./assets/img/protoboard.png">
+</div>
