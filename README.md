@@ -36,5 +36,5 @@ Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que s
 # Esquemático do projeto com todos os componentes na protoboard, utilizando a ferramenta TinkerCad:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="200em" src="./assets/img/protoboard.png">
+<img height="400em" src="./assets/img/protoboard.png">
 </div>
