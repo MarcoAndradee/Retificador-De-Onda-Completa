@@ -18,31 +18,37 @@ Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que s
 # Esquemático do projeto utilizando a ferramenta PROTEUS:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="200em" src="./assets/img/esquematico.png">
+<img height="300em" src="./assets/img/esquematico.png">
 </div>
 
 # Layout PCB do projeto utilizando a ferramenta PROTEUS:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="200em" src="./assets/img/pcb.png">
+<img height="300em" src="./assets/img/pcb.png">
 </div>
 
 # Modelo 3D da placa de circuitos do projeto utilizando a ferramenta PROTEUS:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="200em" src="./assets/img/placa.png">
+<img height="300em" src="./assets/img/placa.png">
 </div>
 
 # Esquemático do projeto com todos os componentes na protoboard, utilizando a ferramenta TinkerCad:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="200em" src="./assets/img/protoboard.png">
+<img height="300em" src="./assets/img/protoboard.png">
 </div>
 
 # Retificador de onda completa montado na prática:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
 <img height="300em" src="./assets/img/pratica.jfif">
+</div>
+
+# Esquemático do retificador de onda completa com divisor de tensão, utilizando a ferramenta TinkerCad:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="300em" src="./assets/img/edivisor.jfif">
 </div>
 
 # Retificador de onda completa com divisor de tensão montado na prática:
