@@ -1,5 +1,5 @@
 # Retificador de Onda Completa 
-Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que serve para retificar a corrente elétrica alternada, transformando-a em onda pulsante e no final transformando para a onda linear, ideal para cicuitos eletrônicos. **Desenvolvedor:** Marco Antônio Andrade, acadêmico do curso de Sistemas de Informação da Universidade Unimater de Pato Branco (PR).
+Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que serve para retificar a corrente elétrica alternada, transformando-a em onda pulsante e no final transformando para a onda linear, ideal para circuitos eletrônicos. **Desenvolvedor:** Marco Antônio Andrade, acadêmico do curso de Sistemas de Informação da Universidade Unimater de Pato Branco (PR).
 
 
 # Ferramentas utilizadas no desenvolvimento:
@@ -37,4 +37,16 @@ Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que s
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
 <img height="200em" src="./assets/img/protoboard.png">
+</div>
+
+# Retificador de onda completa montado na prática:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="300em" src="./assets/img/pratica.jfif">
+</div>
+
+# Retificador de onda completa com divisor de tensão montado na prática:
+<div align=center>
+<a href="https://github.com/MarcoAndradee">
+<img height="300em" src="./assets/img/divisor.jfif">
 </div>
