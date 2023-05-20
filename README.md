@@ -48,5 +48,5 @@ Projeto de desenvolvimento de um simulador de Retificador de Onda Completa que s
 # Retificador de onda completa com divisor de tensão montado na prática:
 <div align=center>
 <a href="https://github.com/MarcoAndradee">
-<img height="300em" src="./assets/img/divisor.jfif">
+<img height="400em" src="./assets/img/divisor2.jfif">
 </div>
